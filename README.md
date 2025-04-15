@@ -10,7 +10,7 @@
 
 | Repository         | Description                                                                                                   |
 |--------------------|---------------------------------------------------------------------------------------------------------------|
-| Discord-Bot        | A collection of Discord bots built using Java and Python to automate server management, moderation, and fun   |
+| Discord-Bot        | A collection of Discord bots built using Java and Python to automate server management & moderation           |
 | Web-Downloader     | A versatile script for downloading videos from various web platforms and services, including streaming sites  |
 | Gaming Configs     | Custom configuration files, keybinds, and optimization tweaks for several PC games I actively play            |
 | Sven Co-op Scripts | Scripts written in Angelscript for Sven Co-op 5.26, including custom game logic, entities, and enhancements   |
