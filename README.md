@@ -26,3 +26,4 @@ const aboutMe = function() {
 | [Sven Co-op Scripts](https://github.com/SRD3V/svenco-op)   | Scripts written in Angelscript for Sven Co-op 5.26, including custom game logic, entities, and enhancements   |
 | [DayZ Modding](https://github.com/SRD3V/dayz-modding)      | Scripts, Mods & Maps for your Workshop   |
 | [Web Templates](https://github.com/SRD3V/web-templates)    | Some of my Webtemplates, feel free to Download |
+| [Windows Scripts](https://github.com/SRD3V/windows)        | Windows Script for an easy Life ;-) |
