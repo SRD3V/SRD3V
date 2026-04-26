@@ -3,10 +3,10 @@
 ```js
 const aboutMe = function() {
   return {
-    name: 'sebastian rehfeld',
+    name: 'Shen Rulλng',
     position: 'fullstack-developer',
-    website: 'https://srehfeld.dev',
-    email: 'hi@srehfeld.dev',
+    website: 'https://github.com/SRD3V',
+    email: 'not-listed',
   }
 }
 ```
